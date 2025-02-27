@@ -7,6 +7,9 @@ title = "book-name"
 
 [preprocessor.theme]
 pagetoc = true
+pagetoc-width = "15%"
+content-max-width = "80%"
+page-padding = "25px"
 sidebar-width = "250px"
 
 [output.html]
